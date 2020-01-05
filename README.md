@@ -1,8 +1,8 @@
-![UI](ui.png)
+# What?
 
-First see readme for the original plugin at: https://github.com/dluke/open-external-editor
+First see readme for the original plugin at: https://github.com/calviken/open-external-editor
 
-The Calviken solution did not fit well with my workflow so his implementation of his button is changed to toggle the external editor setting and change color. 
+The calviken solution did not fit well with my workflow so his implementation of his button is changed to toggle the external editor setting and change color. 
 
 # Installation
 
