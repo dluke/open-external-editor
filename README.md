@@ -6,7 +6,7 @@ The calviken solution did not fit well with my workflow so his implementation of
 
 # Installation
 
-Alternatively, create a folder named `addons` in your project's base folder and clone this repository into it.
+Create a folder named `addons` in your project's base folder and clone this repository into it.
 The result should look like `.../my-project/addons/open-external-editor/`
 
 # License
